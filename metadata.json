@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Live Wallpaper",
+  "description": "Interactive live wallpapers with real tilt and touch physics, customization studio, and Google cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
